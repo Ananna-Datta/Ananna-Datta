@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="134" src="https://i.ibb.co.com/ds5Vv0CZ/IMG-20250311-084637.jpg"  />
+  <img height="400" src="https://i.ibb.co.com/C3dwJ88V/image.png"  />
 </div>
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi,<br><br><br>Seeking for a WEB Developer??<br>🏆Ananna Datta is Here🏆</h1>
 
 ###
 
-<p align="left">My name is Ananna Datta and I'm a web Developer</p>
+<p align="left">I am a passionate Web Developer with expertise in React.js, Firebase, and modern UI frameworks like Tailwind CSS and DaisyUI. I have hands-on experience in building dynamic, responsive, and scalable web applications. My focus is on creating efficient and user-friendly web experiences while continuously learning new technologies.</p>
 
 ###
 
@@ -16,7 +16,15 @@
 
 ###
 
-<p align="left">- 💻 Specializing in **React, Firebase, and Modern Web Technologies**  <br>- 🎯 Currently working on **Employee Management System**  <br>- 📚 Learning **Advanced React & Backend Integration**  <br>- 📩 Reach me at : anannadatta45@gmail.com</p>
+<p align="left">- 💻 Specializing in **React, Firebase, and Modern Web Technologies** <br>- 🚀 My goal is to become a **full-stack developer**<br>- 🎯 Currently working on **React Project**  <br>- 📚 Learning **Advanced React & Backend Integration**  <br>- 📩 Reach me at : anannadatta45@gmail.com</p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
+<p align="left">- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS  <br>- **Backend:** Firebase, Node.js, Express.js  <br>- **Database:** MongoDB  <br>- **Other Tools:** Git, GitHub, VS Code,</p>
 
 ###
 
@@ -24,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -42,7 +50,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.facebook.com/ananna.datta.100" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
